@@ -11,4 +11,4 @@ Formulario de ejemplo para una impresora de ticke
 **Importar CSV**
 >En la imagen se muestra como es la opcion activada "Importar csv".
 
-![ImpresoraForm](https://user-images.githubusercontent.com/36554510/233753418-0f0d5858-4e04-4f2d-8e62-6f6e4d99d59f.jpg)
+![impresoraCsv](https://user-images.githubusercontent.com/36554510/233753750-faf1e662-a24a-496c-abe0-6e1a68920398.jpg)
